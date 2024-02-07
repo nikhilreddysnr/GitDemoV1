@@ -6,7 +6,7 @@ public class Test2 {
 		
 		if(text == "Yes")
 		{
-			System.out.println("Using");
+			System.out.println("Using loggers");
 		}
 		else
 		{

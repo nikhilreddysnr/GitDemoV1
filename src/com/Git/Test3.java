@@ -7,7 +7,7 @@ public class Test3
 		
 		if(text == "Yes")
 		{
-			System.out.println("Using Log");
+			System.out.println("Using");
 		}
 		else
 		{

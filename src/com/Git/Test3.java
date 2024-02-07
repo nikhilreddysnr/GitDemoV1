@@ -7,7 +7,7 @@ public class Test3
 		
 		if(text == "Yes")
 		{
-			System.out.println("Using Log4j2");
+			System.out.println("Using Log");
 		}
 		else
 		{
